@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajgit123
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning git
-- 💞️ I’m looking to collaborate on DevOps projects
+- 👀 I’m interested in DevOps and comming technologies
+- 🌱 I’m currently a devops engineer
+- 💞️ I’m looking to collaborate on various DevOps projects
 - 📫 Reach me at Rajugundepaka1@gmail.com 
 
 <!---
